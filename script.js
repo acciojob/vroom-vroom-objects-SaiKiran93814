@@ -26,8 +26,6 @@ function SportsCar(make, model, topSpeed) {
     window.Car = Car;
     window.SportsCar = SportsCar;
 	
-}
 
-// Do not change the code below
-window.Car = Car;
-window.SportsCar = SportsCar;
+
+
